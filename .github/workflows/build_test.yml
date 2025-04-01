@@ -1,4 +1,5 @@
 name: Build Test
+disabled: true
 on:
     schedule:
       - cron: "29 1 1 * *"
