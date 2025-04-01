@@ -1,4 +1,5 @@
 name: Build GitHub Pages
+disabled: true
 on:
     push:
         branches:
